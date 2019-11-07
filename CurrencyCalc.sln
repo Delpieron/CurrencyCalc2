@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyCalc", "CurrencyCalc\CurrencyCalc.csproj", "{DFF4E734-432C-452E-B9D9-9DE348CCEB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{DA7E76ED-B8C8-45DD-9CF5-9D816068E18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFF4E734-432C-452E-B9D9-9DE348CCEB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF4E734-432C-452E-B9D9-9DE348CCEB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF4E734-432C-452E-B9D9-9DE348CCEB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF4E734-432C-452E-B9D9-9DE348CCEB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7E76ED-B8C8-45DD-9CF5-9D816068E18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7E76ED-B8C8-45DD-9CF5-9D816068E18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7E76ED-B8C8-45DD-9CF5-9D816068E18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7E76ED-B8C8-45DD-9CF5-9D816068E18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {186F1C57-2341-4772-BCEA-EB04697DB206}
+	EndGlobalSection
+EndGlobal
